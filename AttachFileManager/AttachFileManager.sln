@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttacheFileManager", "AttacheFileManager\AttacheFileManager.csproj", "{7DE27300-280F-43F9-84C2-91C85927F1AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AttacheFileManager", "AttacheFileManager\AttacheFileManager.csproj", "{7DE27300-280F-43F9-84C2-91C85927F1AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "All", "All\All.csproj", "{1F8476C9-4432-41B8-90E3-94F9BE114500}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "All", "All\All.csproj", "{1F8476C9-4432-41B8-90E3-94F9BE114500}"
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "AttachFileManager.Database", "AttachFileManager.Database\AttachFileManager.Database.sqlproj", "{64D4D08A-6E9A-47A0-BF0C-EEE245B14C86}"
 EndProject

@@ -71,4 +71,7 @@
     <Build Include="dbo\Stored Procedures\AttacheFilesUpdateById.sql" />
     <Build Include="dbo\Stored Procedures\AttacheFilesUpdateDownCountById.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="AttachFileManager.Database.publish.xml" />
+  </ItemGroup>
 </Project>

@@ -1,8 +1,8 @@
-﻿IF EXISTS (SELECT * FROM sysobjects WHERE type = 'P' AND name = 'AttacheFilesUpdateById')
-	BEGIN
-		DROP  Procedure  dbo.AttacheFilesUpdateById
-	END
-GO
+﻿--IF EXISTS (SELECT * FROM sysobjects WHERE type = 'P' AND name = 'AttacheFilesUpdateById')
+--	BEGIN
+--		DROP  Procedure  dbo.AttacheFilesUpdateById
+--	END
+--GO
 
 CREATE PROCEDURE [dbo].[AttacheFilesUpdateById]
 	@FileName	nvarchar(255) = '',

@@ -1,9 +1,8 @@
-﻿IF EXISTS (SELECT * FROM sysobjects WHERE type = 'P' AND name = 'AttachFilesGetAll')
-	BEGIN
-		DROP  Procedure  dbo.AttachFilesGetAll
-	END
-
-GO
+﻿--IF EXISTS (SELECT * FROM sysobjects WHERE type = 'P' AND name = 'AttachFilesGetAll')
+--BEGIN
+--	DROP  Procedure  dbo.AttachFilesGetAll
+--END
+--GO
 
 CREATE PROCEDURE [dbo].[AttachFilesGetAll]
 	@pageNumber int	= 1,	

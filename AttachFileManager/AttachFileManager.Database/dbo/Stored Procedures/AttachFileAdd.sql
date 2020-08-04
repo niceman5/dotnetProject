@@ -1,9 +1,9 @@
-﻿IF EXISTS (SELECT * FROM sysobjects WHERE type = 'P' AND name = 'AttachFileAdd')
-	BEGIN
-		DROP  Procedure  dbo.AttachFileAdd
-	END
+﻿--IF EXISTS (SELECT * FROM sysobjects WHERE type = 'P' AND name = 'AttachFileAdd')
+--	BEGIN
+--		DROP  Procedure  dbo.AttachFileAdd
+--	END
 
-GO
+--GO
 
 CREATE PROCEDURE [dbo].[AttachFileAdd]
 (

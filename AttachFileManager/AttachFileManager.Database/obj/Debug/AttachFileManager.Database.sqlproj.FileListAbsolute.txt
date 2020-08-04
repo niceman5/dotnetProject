@@ -1,0 +1,6 @@
+D:\00.Dev\dotnetProject\AttachFileManager\AttachFileManager.Database\bin\Debug\AttachFileManager.Database.dacpac
+D:\00.Dev\dotnetProject\AttachFileManager\AttachFileManager.Database\obj\Debug\AttachFileManager.Database.sqlprojAssemblyReference.cache
+D:\00.Dev\dotnetProject\AttachFileManager\AttachFileManager.Database\obj\Debug\AttachFileManager.Database.dll
+D:\00.Dev\dotnetProject\AttachFileManager\AttachFileManager.Database\obj\Debug\AttachFileManager.Database.pdb
+D:\00.Dev\dotnetProject\AttachFileManager\AttachFileManager.Database\bin\Debug\AttachFileManager.Database.dll
+D:\00.Dev\dotnetProject\AttachFileManager\AttachFileManager.Database\bin\Debug\AttachFileManager.Database.pdb

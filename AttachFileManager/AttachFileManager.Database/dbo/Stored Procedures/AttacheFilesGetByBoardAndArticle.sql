@@ -1,8 +1,8 @@
-﻿IF EXISTS (SELECT * FROM sysobjects WHERE type = 'P' AND name = 'AttacheFilesGetByBoardAndArticle')
-	BEGIN
-		DROP  Procedure  dbo.AttacheFilesGetByBoardAndArticle
-	END
-GO
+﻿--IF EXISTS (SELECT * FROM sysobjects WHERE type = 'P' AND name = 'AttacheFilesGetByBoardAndArticle')
+--	BEGIN
+--		DROP  Procedure  dbo.AttacheFilesGetByBoardAndArticle
+--	END
+--GO
 
 CREATE PROCEDURE [dbo].[AttacheFilesGetByBoardAndArticle]
 	@BoardId	int = 0,

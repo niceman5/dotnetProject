@@ -3,7 +3,7 @@
   <PropertyGroup>
     <StartupScript>(비어 있음)</StartupScript>
     <StartAction>StartNone</StartAction>
-    <TargetConnectionString>Data Source=220.95.213.77,1436;Initial Catalog=UBIS;Persist Security Info=True;User ID=upds_adm;Pooling=False;MultipleActiveResultSets=False;Connect Timeout=60;Encrypt=False;TrustServerCertificate=False</TargetConnectionString>
-    <TargetDatabase>UBIS</TargetDatabase>
+    <TargetConnectionString>Data Source=localhost;Initial Catalog=dev;Integrated Security=True;Persist Security Info=False;Pooling=False;MultipleActiveResultSets=False;Connect Timeout=60;Encrypt=False;TrustServerCertificate=False</TargetConnectionString>
+    <TargetDatabase>dev</TargetDatabase>
   </PropertyGroup>
 </Project>

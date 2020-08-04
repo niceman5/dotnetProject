@@ -1,8 +1,9 @@
-﻿IF EXISTS (SELECT * FROM sysobjects WHERE type = 'P' AND name = 'AttacheFilesGetByFileName')
-	BEGIN
-		DROP  Procedure  dbo.AttacheFilesGetByFileName
-	END
-GO
+﻿--IF EXISTS (SELECT * FROM sysobjects WHERE type = 'P' AND name = 'AttacheFilesGetByFileName')
+--	BEGIN
+--		DROP  Procedure  dbo.AttacheFilesGetByFileName
+--	END
+--GO
+
 CREATE PROCEDURE [dbo].[AttacheFilesGetByFileName]
 	@FileName	nvarchar(255)	=''
 AS

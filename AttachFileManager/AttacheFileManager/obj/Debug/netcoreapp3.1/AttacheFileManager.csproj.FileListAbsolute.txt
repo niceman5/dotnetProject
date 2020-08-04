@@ -12,3 +12,6 @@ D:\00.Dev\dotnetProject\AttachFileManager\AttacheFileManager\obj\Debug\netcoreap
 D:\00.Dev\dotnetProject\AttachFileManager\AttacheFileManager\obj\Debug\netcoreapp3.1\AttacheFileManager.pdb
 D:\00.Dev\dotnetProject\AttachFileManager\AttacheFileManager\obj\Debug\netcoreapp3.1\AttacheFileManager.genruntimeconfig.cache
 D:\00.Dev\dotnetProject\AttachFileManager\AttacheFileManager\bin\Debug\netcoreapp3.1\All.dll
+D:\00.Dev\dotnetProject\AttachFileManager\AttacheFileManager\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\00.Dev\dotnetProject\AttachFileManager\AttacheFileManager\bin\Debug\netcoreapp3.1\All.pdb
+D:\00.Dev\dotnetProject\AttachFileManager\AttacheFileManager\obj\Debug\netcoreapp3.1\AttacheFileManager.csproj.CopyComplete

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "T5WSQaQNiT6Hs32F8iZL9Vf5dahllpC0CeDf2iPVbkQKtZQ8F94kZGPDQk/q3iFzpye1VrkP3g0bP95kkrs7Sw==",
+  "success": true,
+  "projectFilePath": "D:\\00.Dev\\dotnetProject\\AttachFileManager\\All\\All.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\김태훈\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",
+    "C:\\Users\\김태훈\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

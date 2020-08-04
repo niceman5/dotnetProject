@@ -1,0 +1,14 @@
+D:\00.Dev\dotnetProject\AttachFileManager\AttacheFileManager\bin\Debug\netcoreapp3.1\AttacheFileManager.exe
+D:\00.Dev\dotnetProject\AttachFileManager\AttacheFileManager\bin\Debug\netcoreapp3.1\AttacheFileManager.deps.json
+D:\00.Dev\dotnetProject\AttachFileManager\AttacheFileManager\bin\Debug\netcoreapp3.1\AttacheFileManager.runtimeconfig.json
+D:\00.Dev\dotnetProject\AttachFileManager\AttacheFileManager\bin\Debug\netcoreapp3.1\AttacheFileManager.runtimeconfig.dev.json
+D:\00.Dev\dotnetProject\AttachFileManager\AttacheFileManager\bin\Debug\netcoreapp3.1\AttacheFileManager.dll
+D:\00.Dev\dotnetProject\AttachFileManager\AttacheFileManager\bin\Debug\netcoreapp3.1\AttacheFileManager.pdb
+D:\00.Dev\dotnetProject\AttachFileManager\AttacheFileManager\obj\Debug\netcoreapp3.1\AttacheFileManager.csprojAssemblyReference.cache
+D:\00.Dev\dotnetProject\AttachFileManager\AttacheFileManager\obj\Debug\netcoreapp3.1\AttacheFileManager.AssemblyInfoInputs.cache
+D:\00.Dev\dotnetProject\AttachFileManager\AttacheFileManager\obj\Debug\netcoreapp3.1\AttacheFileManager.AssemblyInfo.cs
+D:\00.Dev\dotnetProject\AttachFileManager\AttacheFileManager\obj\Debug\netcoreapp3.1\AttacheFileManager.csproj.CoreCompileInputs.cache
+D:\00.Dev\dotnetProject\AttachFileManager\AttacheFileManager\obj\Debug\netcoreapp3.1\AttacheFileManager.dll
+D:\00.Dev\dotnetProject\AttachFileManager\AttacheFileManager\obj\Debug\netcoreapp3.1\AttacheFileManager.pdb
+D:\00.Dev\dotnetProject\AttachFileManager\AttacheFileManager\obj\Debug\netcoreapp3.1\AttacheFileManager.genruntimeconfig.cache
+D:\00.Dev\dotnetProject\AttachFileManager\AttacheFileManager\bin\Debug\netcoreapp3.1\All.dll

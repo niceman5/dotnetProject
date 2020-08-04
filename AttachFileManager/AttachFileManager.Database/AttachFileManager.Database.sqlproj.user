@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <StartupScript>(비어 있음)</StartupScript>
+    <StartAction>StartNone</StartAction>
+    <TargetConnectionString>Data Source=220.95.213.77,1436;Initial Catalog=UBIS;Persist Security Info=True;User ID=upds_adm;Pooling=False;MultipleActiveResultSets=False;Connect Timeout=60;Encrypt=False;TrustServerCertificate=False</TargetConnectionString>
+    <TargetDatabase>UBIS</TargetDatabase>
+  </PropertyGroup>
+</Project>

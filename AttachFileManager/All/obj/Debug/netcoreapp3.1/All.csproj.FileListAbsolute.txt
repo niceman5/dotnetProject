@@ -1,0 +1,4 @@
+D:\00.Dev\dotnetProject\AttachFileManager\All\bin\Debug\netcoreapp3.1\All.deps.json
+D:\00.Dev\dotnetProject\AttachFileManager\All\bin\Debug\netcoreapp3.1\All.dll
+D:\00.Dev\dotnetProject\AttachFileManager\All\obj\Debug\netcoreapp3.1\All.AssemblyInfoInputs.cache
+D:\00.Dev\dotnetProject\AttachFileManager\All\obj\Debug\netcoreapp3.1\All.AssemblyInfo.cs

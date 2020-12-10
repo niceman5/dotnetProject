@@ -1,0 +1,13 @@
+D:\00.Dev\dotnetProject\ConsoleAppTest\ConsoleAppTest\bin\Debug\netcoreapp3.1\ConsoleAppTest.exe
+D:\00.Dev\dotnetProject\ConsoleAppTest\ConsoleAppTest\bin\Debug\netcoreapp3.1\ConsoleAppTest.deps.json
+D:\00.Dev\dotnetProject\ConsoleAppTest\ConsoleAppTest\bin\Debug\netcoreapp3.1\ConsoleAppTest.runtimeconfig.json
+D:\00.Dev\dotnetProject\ConsoleAppTest\ConsoleAppTest\bin\Debug\netcoreapp3.1\ConsoleAppTest.runtimeconfig.dev.json
+D:\00.Dev\dotnetProject\ConsoleAppTest\ConsoleAppTest\bin\Debug\netcoreapp3.1\ConsoleAppTest.dll
+D:\00.Dev\dotnetProject\ConsoleAppTest\ConsoleAppTest\bin\Debug\netcoreapp3.1\ConsoleAppTest.pdb
+D:\00.Dev\dotnetProject\ConsoleAppTest\ConsoleAppTest\obj\Debug\netcoreapp3.1\ConsoleAppTest.csprojAssemblyReference.cache
+D:\00.Dev\dotnetProject\ConsoleAppTest\ConsoleAppTest\obj\Debug\netcoreapp3.1\ConsoleAppTest.AssemblyInfoInputs.cache
+D:\00.Dev\dotnetProject\ConsoleAppTest\ConsoleAppTest\obj\Debug\netcoreapp3.1\ConsoleAppTest.AssemblyInfo.cs
+D:\00.Dev\dotnetProject\ConsoleAppTest\ConsoleAppTest\obj\Debug\netcoreapp3.1\ConsoleAppTest.csproj.CoreCompileInputs.cache
+D:\00.Dev\dotnetProject\ConsoleAppTest\ConsoleAppTest\obj\Debug\netcoreapp3.1\ConsoleAppTest.dll
+D:\00.Dev\dotnetProject\ConsoleAppTest\ConsoleAppTest\obj\Debug\netcoreapp3.1\ConsoleAppTest.pdb
+D:\00.Dev\dotnetProject\ConsoleAppTest\ConsoleAppTest\obj\Debug\netcoreapp3.1\ConsoleAppTest.genruntimeconfig.cache

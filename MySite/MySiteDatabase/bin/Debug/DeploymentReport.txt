@@ -1,0 +1,35 @@
+﻿** 강조
+     다시 빌드될 테이블
+       없음
+     삭제될 클러스터형 인덱스
+       없음
+     생성될 클러스터형 인덱스
+       없음
+     데이터 문제가 있는 것 같습니다.
+       없음
+
+** 사용자 작업
+     만들기
+       [dbo].[BOARD_ATACH_FILES] (테이블)
+       [dbo].[BOARDS] (테이블)
+       [dbo].[CODE_CATES] (테이블)
+       [dbo].[CODE_CATES].[IX_CODE_CATES_CAT_NM] (인덱스)
+       [dbo].[CODE_DICT] (테이블)
+       [dbo].[USERS] (테이블)
+       DEFAULT 제약 조건: [dbo].[BOARD_ATACH_FILES]에 대한 명명되지 않은 제약 조건 (DEFAULT 제약 조건)
+       DEFAULT 제약 조건: [dbo].[BOARDS]에 대한 명명되지 않은 제약 조건 (DEFAULT 제약 조건)
+       DEFAULT 제약 조건: [dbo].[BOARDS]에 대한 명명되지 않은 제약 조건 (DEFAULT 제약 조건)
+       DEFAULT 제약 조건: [dbo].[CODE_CATES]에 대한 명명되지 않은 제약 조건 (DEFAULT 제약 조건)
+       DEFAULT 제약 조건: [dbo].[CODE_CATES]에 대한 명명되지 않은 제약 조건 (DEFAULT 제약 조건)
+       DEFAULT 제약 조건: [dbo].[CODE_DICT]에 대한 명명되지 않은 제약 조건 (DEFAULT 제약 조건)
+       DEFAULT 제약 조건: [dbo].[CODE_DICT]에 대한 명명되지 않은 제약 조건 (DEFAULT 제약 조건)
+       DEFAULT 제약 조건: [dbo].[USERS]에 대한 명명되지 않은 제약 조건 (DEFAULT 제약 조건)
+       DEFAULT 제약 조건: [dbo].[USERS]에 대한 명명되지 않은 제약 조건 (DEFAULT 제약 조건)
+       [dbo].[FK_BOARD_ATACH_FILES_BOARDS] (외래 키)
+       [dbo].[FK_BOARDS_USERS] (외래 키)
+       [dbo].[FK_CODE_DICT_CODE_CATES] (외래 키)
+
+** 지원 동작
+
+프로젝트 및 대상 데이터베이스에 다른 데이터 정렬 설정이 있습니다. 배포 오류가 발생할 수 있습니다.
+

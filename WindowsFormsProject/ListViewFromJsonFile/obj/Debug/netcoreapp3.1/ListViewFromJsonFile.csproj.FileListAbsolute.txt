@@ -1,0 +1,15 @@
+C:\00.Dev\VSTestProject\WindowsFormsProject\ListViewFromJsonFile\bin\Debug\netcoreapp3.1\ListViewFromJsonFile.exe
+C:\00.Dev\VSTestProject\WindowsFormsProject\ListViewFromJsonFile\bin\Debug\netcoreapp3.1\ListViewFromJsonFile.deps.json
+C:\00.Dev\VSTestProject\WindowsFormsProject\ListViewFromJsonFile\bin\Debug\netcoreapp3.1\ListViewFromJsonFile.runtimeconfig.json
+C:\00.Dev\VSTestProject\WindowsFormsProject\ListViewFromJsonFile\bin\Debug\netcoreapp3.1\ListViewFromJsonFile.runtimeconfig.dev.json
+C:\00.Dev\VSTestProject\WindowsFormsProject\ListViewFromJsonFile\bin\Debug\netcoreapp3.1\ListViewFromJsonFile.dll
+C:\00.Dev\VSTestProject\WindowsFormsProject\ListViewFromJsonFile\bin\Debug\netcoreapp3.1\ListViewFromJsonFile.pdb
+C:\00.Dev\VSTestProject\WindowsFormsProject\ListViewFromJsonFile\obj\Debug\netcoreapp3.1\ListViewFromJsonFile.csprojAssemblyReference.cache
+C:\00.Dev\VSTestProject\WindowsFormsProject\ListViewFromJsonFile\obj\Debug\netcoreapp3.1\ListViewFromJsonFile.csproj.GenerateResource.cache
+C:\00.Dev\VSTestProject\WindowsFormsProject\ListViewFromJsonFile\obj\Debug\netcoreapp3.1\ListViewFromJsonFile.AssemblyInfoInputs.cache
+C:\00.Dev\VSTestProject\WindowsFormsProject\ListViewFromJsonFile\obj\Debug\netcoreapp3.1\ListViewFromJsonFile.AssemblyInfo.cs
+C:\00.Dev\VSTestProject\WindowsFormsProject\ListViewFromJsonFile\obj\Debug\netcoreapp3.1\ListViewFromJsonFile.csproj.CoreCompileInputs.cache
+C:\00.Dev\VSTestProject\WindowsFormsProject\ListViewFromJsonFile\obj\Debug\netcoreapp3.1\ListViewFromJsonFile.dll
+C:\00.Dev\VSTestProject\WindowsFormsProject\ListViewFromJsonFile\obj\Debug\netcoreapp3.1\ListViewFromJsonFile.pdb
+C:\00.Dev\VSTestProject\WindowsFormsProject\ListViewFromJsonFile\obj\Debug\netcoreapp3.1\ListViewFromJsonFile.genruntimeconfig.cache
+C:\00.Dev\VSTestProject\WindowsFormsProject\ListViewFromJsonFile\obj\Debug\netcoreapp3.1\ListViewFromJsonFile.frmSP.resources

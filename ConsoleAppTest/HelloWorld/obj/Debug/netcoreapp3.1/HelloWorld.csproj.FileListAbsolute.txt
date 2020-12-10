@@ -1,0 +1,13 @@
+D:\00.Dev\dotnetProject\ConsoleAppTest\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+D:\00.Dev\dotnetProject\ConsoleAppTest\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+D:\00.Dev\dotnetProject\ConsoleAppTest\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+D:\00.Dev\dotnetProject\ConsoleAppTest\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+D:\00.Dev\dotnetProject\ConsoleAppTest\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+D:\00.Dev\dotnetProject\ConsoleAppTest\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+D:\00.Dev\dotnetProject\ConsoleAppTest\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csprojAssemblyReference.cache
+D:\00.Dev\dotnetProject\ConsoleAppTest\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+D:\00.Dev\dotnetProject\ConsoleAppTest\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+D:\00.Dev\dotnetProject\ConsoleAppTest\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+D:\00.Dev\dotnetProject\ConsoleAppTest\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+D:\00.Dev\dotnetProject\ConsoleAppTest\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+D:\00.Dev\dotnetProject\ConsoleAppTest\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache

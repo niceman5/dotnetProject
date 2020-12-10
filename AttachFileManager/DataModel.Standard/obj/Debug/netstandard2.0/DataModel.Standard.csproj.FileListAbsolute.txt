@@ -1,0 +1,9 @@
+D:\00.Dev\dotnetProject\AttachFileManager\DataModel.Standard\bin\Debug\netstandard2.0\DataModel.Standard.deps.json
+D:\00.Dev\dotnetProject\AttachFileManager\DataModel.Standard\bin\Debug\netstandard2.0\DataModel.Standard.dll
+D:\00.Dev\dotnetProject\AttachFileManager\DataModel.Standard\bin\Debug\netstandard2.0\DataModel.Standard.pdb
+D:\00.Dev\dotnetProject\AttachFileManager\DataModel.Standard\obj\Debug\netstandard2.0\DataModel.Standard.csprojAssemblyReference.cache
+D:\00.Dev\dotnetProject\AttachFileManager\DataModel.Standard\obj\Debug\netstandard2.0\DataModel.Standard.AssemblyInfoInputs.cache
+D:\00.Dev\dotnetProject\AttachFileManager\DataModel.Standard\obj\Debug\netstandard2.0\DataModel.Standard.AssemblyInfo.cs
+D:\00.Dev\dotnetProject\AttachFileManager\DataModel.Standard\obj\Debug\netstandard2.0\DataModel.Standard.csproj.CoreCompileInputs.cache
+D:\00.Dev\dotnetProject\AttachFileManager\DataModel.Standard\obj\Debug\netstandard2.0\DataModel.Standard.dll
+D:\00.Dev\dotnetProject\AttachFileManager\DataModel.Standard\obj\Debug\netstandard2.0\DataModel.Standard.pdb

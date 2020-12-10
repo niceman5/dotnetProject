@@ -1,0 +1,12 @@
+﻿CREATE TABLE [dbo].[CODE_CATES]
+(
+	CODE_CATE_NO         integer		NOT NULL	IDENTITY	PRIMARY KEY,
+	CATE_NM              varchar(20)	NOT NULL ,
+	IS_DEL               bit			NOT NULL	DEFAULT	0,
+	LAST_CHNG_DT         datetime		NOT NULL	DEFAULT GETDATE(),
+	LAST_USER_NO         integer		NOT NULL 	
+)
+
+GO
+
+CREATE INDEX [IX_CODE_CATES_CAT_NM] ON [dbo].[CODE_CATES] (CATE_NM)

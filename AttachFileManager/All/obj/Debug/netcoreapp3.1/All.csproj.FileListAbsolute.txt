@@ -4,6 +4,9 @@ D:\00.Dev\dotnetProject\AttachFileManager\All\obj\Debug\netcoreapp3.1\All.Assemb
 D:\00.Dev\dotnetProject\AttachFileManager\All\obj\Debug\netcoreapp3.1\All.AssemblyInfo.cs
 D:\00.Dev\dotnetProject\AttachFileManager\All\bin\Debug\netcoreapp3.1\All.pdb
 D:\00.Dev\dotnetProject\AttachFileManager\All\obj\Debug\netcoreapp3.1\All.csprojAssemblyReference.cache
-D:\00.Dev\dotnetProject\AttachFileManager\All\obj\Debug\netcoreapp3.1\All.csproj.CoreCompileInputs.cache
 D:\00.Dev\dotnetProject\AttachFileManager\All\obj\Debug\netcoreapp3.1\All.dll
 D:\00.Dev\dotnetProject\AttachFileManager\All\obj\Debug\netcoreapp3.1\All.pdb
+D:\00.Dev\dotnetProject\AttachFileManager\All\bin\Debug\netcoreapp3.1\DataModel.Standard.dll
+D:\00.Dev\dotnetProject\AttachFileManager\All\bin\Debug\netcoreapp3.1\DataModel.Standard.pdb
+D:\00.Dev\dotnetProject\AttachFileManager\All\obj\Debug\netcoreapp3.1\All.csproj.CopyComplete
+D:\00.Dev\dotnetProject\AttachFileManager\All\obj\Debug\netcoreapp3.1\All.csproj.CoreCompileInputs.cache

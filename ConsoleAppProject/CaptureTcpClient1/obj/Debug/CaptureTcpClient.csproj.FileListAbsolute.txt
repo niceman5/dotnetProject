@@ -1,0 +1,7 @@
+D:\00.Dev\dotnetProject\ConsoleAppProject\CaptureTcpClient1\bin\Debug\CaptureTcpClient1.exe.config
+D:\00.Dev\dotnetProject\ConsoleAppProject\CaptureTcpClient1\bin\Debug\CaptureTcpClient1.exe
+D:\00.Dev\dotnetProject\ConsoleAppProject\CaptureTcpClient1\bin\Debug\CaptureTcpClient1.pdb
+D:\00.Dev\dotnetProject\ConsoleAppProject\CaptureTcpClient1\obj\Debug\CaptureTcpClient.csprojAssemblyReference.cache
+D:\00.Dev\dotnetProject\ConsoleAppProject\CaptureTcpClient1\obj\Debug\CaptureTcpClient.csproj.CoreCompileInputs.cache
+D:\00.Dev\dotnetProject\ConsoleAppProject\CaptureTcpClient1\obj\Debug\CaptureTcpClient1.exe
+D:\00.Dev\dotnetProject\ConsoleAppProject\CaptureTcpClient1\obj\Debug\CaptureTcpClient1.pdb

@@ -1,0 +1,13 @@
+C:\00.Dev\VSTestProject\WindowsFormsProject\FileSaveLoadJson\bin\Debug\netcoreapp3.1\FileSaveLoadJson.exe
+C:\00.Dev\VSTestProject\WindowsFormsProject\FileSaveLoadJson\bin\Debug\netcoreapp3.1\FileSaveLoadJson.deps.json
+C:\00.Dev\VSTestProject\WindowsFormsProject\FileSaveLoadJson\bin\Debug\netcoreapp3.1\FileSaveLoadJson.runtimeconfig.json
+C:\00.Dev\VSTestProject\WindowsFormsProject\FileSaveLoadJson\bin\Debug\netcoreapp3.1\FileSaveLoadJson.runtimeconfig.dev.json
+C:\00.Dev\VSTestProject\WindowsFormsProject\FileSaveLoadJson\bin\Debug\netcoreapp3.1\FileSaveLoadJson.dll
+C:\00.Dev\VSTestProject\WindowsFormsProject\FileSaveLoadJson\bin\Debug\netcoreapp3.1\FileSaveLoadJson.pdb
+C:\00.Dev\VSTestProject\WindowsFormsProject\FileSaveLoadJson\obj\Debug\netcoreapp3.1\FileSaveLoadJson.csprojAssemblyReference.cache
+C:\00.Dev\VSTestProject\WindowsFormsProject\FileSaveLoadJson\obj\Debug\netcoreapp3.1\FileSaveLoadJson.AssemblyInfoInputs.cache
+C:\00.Dev\VSTestProject\WindowsFormsProject\FileSaveLoadJson\obj\Debug\netcoreapp3.1\FileSaveLoadJson.AssemblyInfo.cs
+C:\00.Dev\VSTestProject\WindowsFormsProject\FileSaveLoadJson\obj\Debug\netcoreapp3.1\FileSaveLoadJson.csproj.CoreCompileInputs.cache
+C:\00.Dev\VSTestProject\WindowsFormsProject\FileSaveLoadJson\obj\Debug\netcoreapp3.1\FileSaveLoadJson.dll
+C:\00.Dev\VSTestProject\WindowsFormsProject\FileSaveLoadJson\obj\Debug\netcoreapp3.1\FileSaveLoadJson.pdb
+C:\00.Dev\VSTestProject\WindowsFormsProject\FileSaveLoadJson\obj\Debug\netcoreapp3.1\FileSaveLoadJson.genruntimeconfig.cache

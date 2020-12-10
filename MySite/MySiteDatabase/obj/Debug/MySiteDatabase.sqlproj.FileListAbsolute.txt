@@ -1,0 +1,16 @@
+D:\00.Dev\dotnetProject\MySite\MySiteDatabase\bin\Debug\MySiteDatabase.dacpac
+D:\00.Dev\dotnetProject\MySite\MySiteDatabase\bin\Debug\MySiteDatabase.dll
+D:\00.Dev\dotnetProject\MySite\MySiteDatabase\bin\Debug\MySiteDatabase.pdb
+D:\00.Dev\dotnetProject\MySite\MySiteDatabase\obj\Debug\MySiteDatabase.sqlprojAssemblyReference.cache
+D:\00.Dev\dotnetProject\MySite\MySiteDatabase\obj\Debug\Model.xml
+D:\00.Dev\dotnetProject\MySite\MySiteDatabase\obj\Debug\refactor.xml
+D:\00.Dev\dotnetProject\MySite\MySiteDatabase\obj\Debug\postdeploy.sql
+D:\00.Dev\dotnetProject\MySite\MySiteDatabase\obj\Debug\predeploy.sql
+D:\00.Dev\dotnetProject\MySite\MySiteDatabase\obj\Debug\MySiteDatabase.dll
+D:\00.Dev\dotnetProject\MySite\MySiteDatabase\obj\Debug\MySiteDatabase.pdb
+C:\00.Dev\VSTestProject\MySite\MySiteDatabase\bin\Debug\MySiteDatabase.dacpac
+C:\00.Dev\VSTestProject\MySite\MySiteDatabase\bin\Debug\MySiteDatabase.dll
+C:\00.Dev\VSTestProject\MySite\MySiteDatabase\bin\Debug\MySiteDatabase.pdb
+C:\00.Dev\VSTestProject\MySite\MySiteDatabase\obj\Debug\MySiteDatabase.sqlprojAssemblyReference.cache
+C:\00.Dev\VSTestProject\MySite\MySiteDatabase\obj\Debug\MySiteDatabase.dll
+C:\00.Dev\VSTestProject\MySite\MySiteDatabase\obj\Debug\MySiteDatabase.pdb

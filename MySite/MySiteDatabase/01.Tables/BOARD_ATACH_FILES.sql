@@ -1,0 +1,12 @@
+﻿CREATE TABLE [dbo].[BOARD_ATACH_FILES]
+(
+	ATACH_NO             integer		NOT NULL IDENTITY		PRIMARY KEY,
+	BOARD_NO             integer		NOT NULL ,	
+	FILE_NM              varchar(250)	NOT NULL ,
+	FILE_SIZE            INT			NOT NULL ,
+	DOWN_CNT             INT			NOT NULL ,
+	LAST_CHNG_DT         datetime		NOT NULL	DEFAULT		GETDATE(),
+	LAST_USER_NO         integer		NOT NULL, 
+    CONSTRAINT [FK_BOARD_ATACH_FILES_BOARDS] FOREIGN KEY ([BOARD_NO]) REFERENCES [BOARDS]([BOARD_NO]) 
+);
+

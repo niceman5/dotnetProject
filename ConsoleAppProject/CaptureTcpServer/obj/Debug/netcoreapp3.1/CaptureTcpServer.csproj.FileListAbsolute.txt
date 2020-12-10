@@ -1,0 +1,13 @@
+D:\00.Dev\dotnetProject\ConsoleAppProject\CaptureTcpServer\bin\Debug\netcoreapp3.1\CaptureTcpServer.exe
+D:\00.Dev\dotnetProject\ConsoleAppProject\CaptureTcpServer\bin\Debug\netcoreapp3.1\CaptureTcpServer.deps.json
+D:\00.Dev\dotnetProject\ConsoleAppProject\CaptureTcpServer\bin\Debug\netcoreapp3.1\CaptureTcpServer.runtimeconfig.json
+D:\00.Dev\dotnetProject\ConsoleAppProject\CaptureTcpServer\bin\Debug\netcoreapp3.1\CaptureTcpServer.runtimeconfig.dev.json
+D:\00.Dev\dotnetProject\ConsoleAppProject\CaptureTcpServer\bin\Debug\netcoreapp3.1\CaptureTcpServer.dll
+D:\00.Dev\dotnetProject\ConsoleAppProject\CaptureTcpServer\bin\Debug\netcoreapp3.1\CaptureTcpServer.pdb
+D:\00.Dev\dotnetProject\ConsoleAppProject\CaptureTcpServer\obj\Debug\netcoreapp3.1\CaptureTcpServer.csprojAssemblyReference.cache
+D:\00.Dev\dotnetProject\ConsoleAppProject\CaptureTcpServer\obj\Debug\netcoreapp3.1\CaptureTcpServer.AssemblyInfoInputs.cache
+D:\00.Dev\dotnetProject\ConsoleAppProject\CaptureTcpServer\obj\Debug\netcoreapp3.1\CaptureTcpServer.AssemblyInfo.cs
+D:\00.Dev\dotnetProject\ConsoleAppProject\CaptureTcpServer\obj\Debug\netcoreapp3.1\CaptureTcpServer.csproj.CoreCompileInputs.cache
+D:\00.Dev\dotnetProject\ConsoleAppProject\CaptureTcpServer\obj\Debug\netcoreapp3.1\CaptureTcpServer.dll
+D:\00.Dev\dotnetProject\ConsoleAppProject\CaptureTcpServer\obj\Debug\netcoreapp3.1\CaptureTcpServer.pdb
+D:\00.Dev\dotnetProject\ConsoleAppProject\CaptureTcpServer\obj\Debug\netcoreapp3.1\CaptureTcpServer.genruntimeconfig.cache

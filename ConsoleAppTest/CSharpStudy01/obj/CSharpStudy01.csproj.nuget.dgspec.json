@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\00.Dev\\dotnetProject\\ConsoleAppTest\\ConsoleAppTest\\ConsoleAppTest.csproj": {}
+    "C:\\00.Dev\\dotnetProject\\ConsoleAppTest\\CSharpStudy01\\CSharpStudy01.csproj": {}
   },
   "projects": {
-    "C:\\00.Dev\\dotnetProject\\ConsoleAppTest\\ConsoleAppTest\\ConsoleAppTest.csproj": {
+    "C:\\00.Dev\\dotnetProject\\ConsoleAppTest\\CSharpStudy01\\CSharpStudy01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\00.Dev\\dotnetProject\\ConsoleAppTest\\ConsoleAppTest\\ConsoleAppTest.csproj",
-        "projectName": "ConsoleAppTest",
-        "projectPath": "C:\\00.Dev\\dotnetProject\\ConsoleAppTest\\ConsoleAppTest\\ConsoleAppTest.csproj",
+        "projectUniqueName": "C:\\00.Dev\\dotnetProject\\ConsoleAppTest\\CSharpStudy01\\CSharpStudy01.csproj",
+        "projectName": "CSharpStudy01",
+        "projectPath": "C:\\00.Dev\\dotnetProject\\ConsoleAppTest\\CSharpStudy01\\CSharpStudy01.csproj",
         "packagesPath": "C:\\Users\\김태훈\\.nuget\\packages\\",
-        "outputPath": "C:\\00.Dev\\dotnetProject\\ConsoleAppTest\\ConsoleAppTest\\obj\\",
+        "outputPath": "C:\\00.Dev\\dotnetProject\\ConsoleAppTest\\CSharpStudy01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -21,15 +21,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -40,8 +40,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",

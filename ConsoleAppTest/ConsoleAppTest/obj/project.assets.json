@@ -8,17 +8,21 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\김태훈\\.nuget\\packages\\": {}
+    "C:\\Users\\김태훈\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\00.Dev\\dotnetProject\\ConsoleAppTest\\ConsoleAppTest\\ConsoleAppTest.csproj",
-      "projectName": "ConsoleAppTest",
-      "projectPath": "D:\\00.Dev\\dotnetProject\\ConsoleAppTest\\ConsoleAppTest\\ConsoleAppTest.csproj",
+      "projectUniqueName": "C:\\00.Dev\\dotnetProject\\ConsoleAppTest\\ConsoleAppTest\\CSharp을다루는기술.csproj",
+      "projectName": "CSharp을다루는기술",
+      "projectPath": "C:\\00.Dev\\dotnetProject\\ConsoleAppTest\\ConsoleAppTest\\CSharp을다루는기술.csproj",
       "packagesPath": "C:\\Users\\김태훈\\.nuget\\packages\\",
-      "outputPath": "D:\\00.Dev\\dotnetProject\\ConsoleAppTest\\ConsoleAppTest\\obj\\",
+      "outputPath": "C:\\00.Dev\\dotnetProject\\ConsoleAppTest\\ConsoleAppTest\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "C:\\Users\\김태훈\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -32,6 +36,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -43,6 +48,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -58,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

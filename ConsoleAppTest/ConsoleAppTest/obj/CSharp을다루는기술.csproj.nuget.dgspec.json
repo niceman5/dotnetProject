@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\00.Dev\\dotnetProject\\ConsoleAppTest\\ConsoleAppTest\\ConsoleAppTest.csproj": {}
+    "C:\\00.Dev\\dotnetProject\\ConsoleAppTest\\ConsoleAppTest\\CSharp을다루는기술.csproj": {}
   },
   "projects": {
-    "C:\\00.Dev\\dotnetProject\\ConsoleAppTest\\ConsoleAppTest\\ConsoleAppTest.csproj": {
+    "C:\\00.Dev\\dotnetProject\\ConsoleAppTest\\ConsoleAppTest\\CSharp을다루는기술.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\00.Dev\\dotnetProject\\ConsoleAppTest\\ConsoleAppTest\\ConsoleAppTest.csproj",
-        "projectName": "ConsoleAppTest",
-        "projectPath": "C:\\00.Dev\\dotnetProject\\ConsoleAppTest\\ConsoleAppTest\\ConsoleAppTest.csproj",
+        "projectUniqueName": "C:\\00.Dev\\dotnetProject\\ConsoleAppTest\\ConsoleAppTest\\CSharp을다루는기술.csproj",
+        "projectName": "CSharp을다루는기술",
+        "projectPath": "C:\\00.Dev\\dotnetProject\\ConsoleAppTest\\ConsoleAppTest\\CSharp을다루는기술.csproj",
         "packagesPath": "C:\\Users\\김태훈\\.nuget\\packages\\",
         "outputPath": "C:\\00.Dev\\dotnetProject\\ConsoleAppTest\\ConsoleAppTest\\obj\\",
         "projectStyle": "PackageReference",

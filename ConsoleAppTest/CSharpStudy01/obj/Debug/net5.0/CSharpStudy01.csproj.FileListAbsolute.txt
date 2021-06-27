@@ -1,0 +1,16 @@
+C:\00.Dev\dotnetProject\ConsoleAppTest\CSharpStudy01\bin\Debug\net5.0\CSharpStudy01.exe
+C:\00.Dev\dotnetProject\ConsoleAppTest\CSharpStudy01\bin\Debug\net5.0\CSharpStudy01.deps.json
+C:\00.Dev\dotnetProject\ConsoleAppTest\CSharpStudy01\bin\Debug\net5.0\CSharpStudy01.runtimeconfig.json
+C:\00.Dev\dotnetProject\ConsoleAppTest\CSharpStudy01\bin\Debug\net5.0\CSharpStudy01.runtimeconfig.dev.json
+C:\00.Dev\dotnetProject\ConsoleAppTest\CSharpStudy01\bin\Debug\net5.0\CSharpStudy01.dll
+C:\00.Dev\dotnetProject\ConsoleAppTest\CSharpStudy01\bin\Debug\net5.0\ref\CSharpStudy01.dll
+C:\00.Dev\dotnetProject\ConsoleAppTest\CSharpStudy01\bin\Debug\net5.0\CSharpStudy01.pdb
+C:\00.Dev\dotnetProject\ConsoleAppTest\CSharpStudy01\obj\Debug\net5.0\CSharpStudy01.csproj.AssemblyReference.cache
+C:\00.Dev\dotnetProject\ConsoleAppTest\CSharpStudy01\obj\Debug\net5.0\CSharpStudy01.GeneratedMSBuildEditorConfig.editorconfig
+C:\00.Dev\dotnetProject\ConsoleAppTest\CSharpStudy01\obj\Debug\net5.0\CSharpStudy01.AssemblyInfoInputs.cache
+C:\00.Dev\dotnetProject\ConsoleAppTest\CSharpStudy01\obj\Debug\net5.0\CSharpStudy01.AssemblyInfo.cs
+C:\00.Dev\dotnetProject\ConsoleAppTest\CSharpStudy01\obj\Debug\net5.0\CSharpStudy01.csproj.CoreCompileInputs.cache
+C:\00.Dev\dotnetProject\ConsoleAppTest\CSharpStudy01\obj\Debug\net5.0\CSharpStudy01.dll
+C:\00.Dev\dotnetProject\ConsoleAppTest\CSharpStudy01\obj\Debug\net5.0\ref\CSharpStudy01.dll
+C:\00.Dev\dotnetProject\ConsoleAppTest\CSharpStudy01\obj\Debug\net5.0\CSharpStudy01.pdb
+C:\00.Dev\dotnetProject\ConsoleAppTest\CSharpStudy01\obj\Debug\net5.0\CSharpStudy01.genruntimeconfig.cache

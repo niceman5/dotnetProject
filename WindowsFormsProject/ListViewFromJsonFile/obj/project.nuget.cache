@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "p9THsg+hnqoX3yLy5yzKbxPKJvisVdXZqqA/X822Tva2NBpRPkpRrVSJtQr+MXxE60SL/xr2UdA8dZpONKhpsQ==",
+  "dgSpecHash": "ebTr67dGDT8h1vz+GElR2vyvT2C8NtFbA1u2dKw8Rx54nUqjJ+yhvxdAQhC8i56p0QLRgc6feb6woSLPRu2rtg==",
   "success": true,
-  "projectFilePath": "D:\\00.Dev\\dotnetProject\\WindowsFormsProject\\ListViewFromJsonFile\\ListViewFromJsonFile.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\00.Dev\\04.dotnetProject\\WindowsFormsProject\\ListViewFromJsonFile\\ListViewFromJsonFile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }

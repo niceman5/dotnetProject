@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "pOtpfZ+z7ZlyuTVA7iYBG0Fr9nxhMYvX7zx7gFg3rQfY2Vw+aOy9snLJdGvpvjEEkytw1YbY0oE93EaCGl8Uiw==",
+  "dgSpecHash": "y+2Alue7cGkrMlJi2aDRfNXve7Ovf/iEep1ydMNdirWaoC8BWsicNk24Wetxk4J7S+/y8IL44RxM451u6tpRQA==",
   "success": true,
-  "projectFilePath": "D:\\00.Dev\\dotnetProject\\ConsoleAppProject\\ClientSocket\\ClientSocket.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\00.Dev\\04.dotnetProject\\ConsoleAppProject\\ClientSocket\\ClientSocket.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }

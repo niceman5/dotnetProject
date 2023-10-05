@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "m2DRr7q7GDqiB2EdKxyF86XCZSIZt61SM7n/+MEPB3229Or9Uwne2fTo6SgraSHD6g5oKyS2N8ffqiBO+VcyNg==",
+  "dgSpecHash": "AY9OZdZRl2VvoeAsz23Pmbb/rPWaZF38i8jKo0q8IyigigqgoTdQbZQYWeGeyazOXwTOEgXkqnzs7Q9eDIeFHw==",
   "success": true,
-  "projectFilePath": "D:\\00.Dev\\dotnetProject\\ConsoleAppProject\\ConsoleAppProject\\FileReadWrite.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\00.Dev\\04.dotnetProject\\ConsoleAppProject\\ConsoleAppProject\\FileReadWrite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }

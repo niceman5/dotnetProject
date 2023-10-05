@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\00.Dev\\dotnetProject\\ConsoleAppProject\\ServerSocket\\ServerSocket.csproj": {}
+    "C:\\00.Dev\\04.dotnetProject\\ConsoleAppProject\\ServerSocket\\ServerSocket.csproj": {}
   },
   "projects": {
-    "D:\\00.Dev\\dotnetProject\\ConsoleAppProject\\ServerSocket\\ServerSocket.csproj": {
+    "C:\\00.Dev\\04.dotnetProject\\ConsoleAppProject\\ServerSocket\\ServerSocket.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\00.Dev\\dotnetProject\\ConsoleAppProject\\ServerSocket\\ServerSocket.csproj",
+        "projectUniqueName": "C:\\00.Dev\\04.dotnetProject\\ConsoleAppProject\\ServerSocket\\ServerSocket.csproj",
         "projectName": "ServerSocket",
-        "projectPath": "D:\\00.Dev\\dotnetProject\\ConsoleAppProject\\ServerSocket\\ServerSocket.csproj",
-        "packagesPath": "C:\\Users\\김태훈\\.nuget\\packages\\",
-        "outputPath": "D:\\00.Dev\\dotnetProject\\ConsoleAppProject\\ServerSocket\\obj\\",
+        "projectPath": "C:\\00.Dev\\04.dotnetProject\\ConsoleAppProject\\ServerSocket\\ServerSocket.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\00.Dev\\04.dotnetProject\\ConsoleAppProject\\ServerSocket\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\김태훈\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,22 +38,42 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.32, 3.1.32]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

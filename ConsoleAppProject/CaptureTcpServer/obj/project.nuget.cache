@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "fF1dadZtHraISgYXc0PethSH3EK75Z4YkpBg4k/tYHhxsTVN6r+w09okUhMa0hq4tsSgJZ0p1dXolhbGdV3vYw==",
+  "dgSpecHash": "/azShFS3rKVltWGm/MkeTqfVXU7FhXtMrVgt2v6uTEY2OhVJCaX75C+uQq8iPZKfjxeLzLSjkwlN104XVL1Viw==",
   "success": true,
-  "projectFilePath": "D:\\00.Dev\\dotnetProject\\ConsoleAppProject\\CaptureTcpServer\\CaptureTcpServer.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\00.Dev\\04.dotnetProject\\ConsoleAppProject\\CaptureTcpServer\\CaptureTcpServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }

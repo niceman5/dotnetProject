@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\00.Dev\\dotnetProject\\ConsoleAppTest\\CSharpStudy01\\CSharpStudy01.csproj": {}
+    "C:\\00.Dev\\04.dotnetProject\\ConsoleAppTest\\CSharpStudy01\\CSharpStudy01.csproj": {}
   },
   "projects": {
-    "C:\\00.Dev\\dotnetProject\\ConsoleAppTest\\CSharpStudy01\\CSharpStudy01.csproj": {
+    "C:\\00.Dev\\04.dotnetProject\\ConsoleAppTest\\CSharpStudy01\\CSharpStudy01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\00.Dev\\dotnetProject\\ConsoleAppTest\\CSharpStudy01\\CSharpStudy01.csproj",
+        "projectUniqueName": "C:\\00.Dev\\04.dotnetProject\\ConsoleAppTest\\CSharpStudy01\\CSharpStudy01.csproj",
         "projectName": "CSharpStudy01",
-        "projectPath": "C:\\00.Dev\\dotnetProject\\ConsoleAppTest\\CSharpStudy01\\CSharpStudy01.csproj",
-        "packagesPath": "C:\\Users\\김태훈\\.nuget\\packages\\",
-        "outputPath": "C:\\00.Dev\\dotnetProject\\ConsoleAppTest\\CSharpStudy01\\obj\\",
+        "projectPath": "C:\\00.Dev\\04.dotnetProject\\ConsoleAppTest\\CSharpStudy01\\CSharpStudy01.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\00.Dev\\04.dotnetProject\\ConsoleAppTest\\CSharpStudy01\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\김태훈\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -48,16 +45,35 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
